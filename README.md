@@ -16,7 +16,7 @@ I develop these tools in my personal time, so please consider sponsoring me (htt
 You can add this repo as a dependency in Xcode26+:
 1. Open your project.
 2. Go to File > Add Package Dependencies…
-3. Enter the URL: https://github.com/RayLabi/SwiftUIBackportedToIOS16
+3. Enter the URL: https://github.com/RayLabi/SwiftUIBackport
 4. Choose the latest version and add it to your app target.
 
 ### You can install manually (by copying the files in the `Sources` directory) 
