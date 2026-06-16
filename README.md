@@ -7,7 +7,7 @@ The library back-ports swiftUI's `.containerRelativeFrame`, `.onChange`, and mor
 the way back to iOS 16. 
 
 ## Sponsor
-I develop these tools in my personal time, so please consider sponsoring me (https://github.com/sponsors/RayLabi). This will help me continue developing useful libraries like this.
+I develop these tools in my personal time, so please consider sponsoring me. This will help me continue developing useful libraries like this.
 本人目前失业状态，请考虑点Sponsor，将帮助我继续开发这类开源库。 
 
 ## Installation 
