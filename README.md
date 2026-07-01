@@ -48,6 +48,8 @@ You can write:
 |-------------|-----------------------------------------|--------------------------------------------------|
 |iOS 17.0|scrollTargetBehavior(_ behavior:)|✅ iOS16.0 ✅ iOS26.3.1|
 |iOS 17.0|onChange<V>(of: initial: _ action:)|✅ iOS16.0 ✅ iOS26.3.1|
+|iOS 17.0|timingCurve(_ curve: duration:) |✅ iOS16.0 ✅ iOS26.3.1|
+|iOS 26.0|glassEffect(_ glass: in:)|✅ iOS16.0 ✅ iOS26.3.1|
 
 ## Contributing
 Got a new SwiftUI modifier you'd like to backport? Open a PR or file an issue — contributions are welcome!
